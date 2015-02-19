@@ -1,0 +1,22 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"ColorPicker",
+		"CSS Extended Completions",
+		"DocBlockr",
+		"Emmet",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"UnitJS",
+		"Vintageous"
+	],
+	"repositories":
+	[
+	]
+}
